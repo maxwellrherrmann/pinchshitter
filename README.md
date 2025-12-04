@@ -9,3 +9,13 @@ Project to simulate the experience of watching baseball, maybe with some fantasy
   - [ ] debug
 - [ ] ?????
 - [ ] profit
+
+## to-do (real)
+- [ ] game engine
+  - [ ] implement basic game loop
+  - [ ] implement watchable chyron
+  - [ ] host watchable loop on onlyfarms
+  - [ ] implement player skill levels
+- [ ] flavor
+  - [ ] develop character generator
+  - [ ] create initial teams
